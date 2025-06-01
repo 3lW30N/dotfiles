@@ -1,0 +1,98 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs et caches
+*.log
+*.cache
+**/logs/
+**/cache/
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*~
+.#*
+\#*#
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+*.old
+*~
+
+# Configuration spécifique à la machine
+configstore/
+simple-update-notifier/
+
+# Clés et tokens sensibles
+**/*token*
+**/*key*
+**/*secret*
+**/*password*
+**/*credential*
+
+# Configuration Qt (générée automatiquement)
+QtProject/
+
+# Fichiers spécifiques applications
+raycast/raycast_*
+karabiner/automatic_backups/
+
+# Dossiers de cache courants
+**/node_modules/
+**/.npm/
+**/.yarn/
+**/.cache/
+
+# Fichiers IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Configuration réseau sensible
+wireshark/recent*
+wireshark/preferences
+
+# Historiques
+**/history
+**/.history
+**/command_history
+
+# Configuration OCaml locale
+ocaml/config
+
+# Fichiers fish
+fish/fish_variables
+fish/fishd.*
+
+# Configuration tmux locale
+tmux/resurrect/
+
+# Configuration nvim locale
+nvim/plugin/
+nvim/.netrwhist
+nvim/plugged/
+nvim/autoload/
+nvim/sessions/
+
+# Configuration btop
+btop/btop.log
+
+# Jgit
+jgit/config
+
+# Configuration Ghostty sensible
+ghostty/config.local
+
+# Applications spécifiques
+fish/
+wireshark/
+configstore/
+simple-update-notifier/

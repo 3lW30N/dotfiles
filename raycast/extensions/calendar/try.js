@@ -1,0 +1,6 @@
+"use strict";
+
+// src/try.ts
+var n = "Hello, World!";
+console.log(n);
+//# sourceMappingURL=data:application/json;base64,ewogICJ2ZXJzaW9uIjogMywKICAic291cmNlcyI6IFsiLi4vLi4vLi4vLi4vRG9jdW1lbnRzL3JheWNhc3QvZXh0ZW5zaW9ucy9jYWxlbmRhci9zcmMvdHJ5LnRzIl0sCiAgInNvdXJjZXNDb250ZW50IjogWyJjb25zdCBuID0gXCJIZWxsbywgV29ybGQhXCI7XG5jb25zb2xlLmxvZyhuKTsiXSwKICAibWFwcGluZ3MiOiAiOzs7QUFBQSxJQUFNLElBQUk7QUFDVixRQUFRLElBQUksQ0FBQzsiLAogICJuYW1lcyI6IFtdCn0K
