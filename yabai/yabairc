@@ -58,16 +58,16 @@ function setup_space {
   yabai -m space "$idx" --label "$name"
 }
 
-setup_space 1 warp
-setup_space 2 web
-setup_space 3 slack
-setup_space 4 media
-setup_space 5 spotify
-setup_space 6 other
+# setup_space 1 warp
+# setup_space 2 web
+#setup_space 3 slack
+#setup_space 4 media
+#setup_space 5 spotify
+#setup_space 6 other
 
 # automatically move windows to the right spaces
-yabai -m rule --add app="^Warp$" space=1
-yabai -m rule --add app="^Arc$" space=2
-yabai -m rule --add app="^Slack$" space=3
-yabai -m rule --add app="^VS Code$" space=4
-yabai -m rule --add app="^Spotify$" space=5
+#yabai -m rule --add app="^Warp$" space=1
+#yabai -m rule --add app="^Arc$" space=2
+#yabai -m rule --add app="^Slack$" space=3
+#yabai -m rule --add app="^VS Code$" space=4
+#yabai -m rule --add app="^Spotify$" space=5
